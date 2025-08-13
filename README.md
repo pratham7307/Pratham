@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Frontened<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: ...</p>
+<p align="left">✨i am sorting the bugs since 2022<br>📚 I'm currently learning Frontened<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: ...</p>
 
 ###
 
