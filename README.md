@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">I am good developer.</h2>
+<h2 align="left">I am Frontened developer.</h2>
 
 ###
 
-<p align="left">✨i am sorting the bugs since 2022<br>📚 I'm currently learning Frontened<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: ...</p>
+<p align="left">✨I am sorting the bugs since 2022<br>📚 I'm currently learning Frontened<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">I code with java</h2>
+<h2 align="left">I code with Java,Python,C,C++,</h2>
 
 ###
 
